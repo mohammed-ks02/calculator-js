@@ -1,5 +1,5 @@
-🧮 Tutoriel : Comment Utiliser la Calculatrice JavaScript
-📖 Table des Matières
+#🧮 Tutoriel : Comment Utiliser la Calculatrice JavaScript
+#📖 Table des Matières
 Installation et Lancement
 Premiers Pas
 Guide des Fonctionnalités
